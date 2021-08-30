@@ -3,7 +3,7 @@
 # Command Line Usage: python3 ae-total-render-time.py /path/to/AERenderLogsFolder/
 
 # Title: ae-total-render-time.py
-# Version: 1.0.0
+# Version: 1.0.1
 # Description: Calculate the Total Render Time of your completed After Effects renders.
 # Author: gfxhacks.com
 # More Info: https://gfxhacks.com/ae-render-logs-total-render-time
