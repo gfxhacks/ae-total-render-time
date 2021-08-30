@@ -95,10 +95,13 @@ class Main:
         f = {
             "Sec": sc,
             "Seconds": sc,
+            "Second": sc,
             "Min": mn,
             "Minutes": mn,
+            "Minute": mn,
             "Hr": hr,
-            "Hours": hr
+            "Hours": hr,
+            "Hour": hr
         }
 
         # find whether value is Hours, Minutes, or Seconds
